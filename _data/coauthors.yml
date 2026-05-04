@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Lindauer":
+  - firstname: ["Marius", "M."]
+    url: https://www.ai.uni-hannover.de/en/lindauer
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Hutter":
+  - firstname: ["Frank", "F."]
+    url: https://ml.informatik.uni-freiburg.de/profile/hutter
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bischl":
+ - firstname: ["Bernd", "B"]
+   url: https://www.slds.stat.uni-muenchen.de/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Wachsmuth":
+  - firstname: ["Henning", "H."]
+    url: https://www.ai.uni-hannover.de/de/wachsmuth
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Eimer":
+  - firstname: ["Theresa", "T."]
+    url: https://www.ai.uni-hannover.de/en/institut/team-luhai/eimer
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Benjamins":
+  - firstname: ["Carolin", "C."]
+    url: https://www.ai.uni-hannover.de/en/institut/team-luhai/benjamins
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Mohan":
+  - firstname: ["Aditya", "A."]
+    url: https://www.ai.uni-hannover.de/en/institut/team-luhai/mohan
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Ruhkopf":
+  - firstname: ["Tim", "T."]
+    url: https://www.ai.uni-hannover.de/en/institut/team-luhai/ruhkopf
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Tornede":
+  - firstname: ["Alexander", "A."]
+    url: https://scholar.google.com/citations?user=a-LsUD4AAAAJ
+
+"Biedenkapp":
+  - firstname: ["André", "A."]
+    url: https://andrebiedenkapp.github.io/
+
+"Eggensperger":
+ - firstname: ["Katharina", "K."]
+   url: https://keggensperger.github.io/
+
+"Feuer":
+ - firstname: ["Matthias", "K."]
+   url: https://matthiasfeurer.de/
+
+"Karl":
+ - firstname: ["Florian", "F"]
+   url: https://scholar.google.com/citations?user=k-ZyY8EAAAAJ

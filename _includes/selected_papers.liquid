@@ -1,3 +1,10 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <h3 class="category">Dynamic Sparse Attentions</h3>
+  {% bibliography --group_by none --query @*[category=sparse-attention]* %}
+
+  <h3 class="category">Neural Architecture Search for Time Series</h3>
+  {% bibliography --group_by none --query @*[category=nas-timeseries]* %}
+
+  <h3 class="category">Hyperparameter Optimization</h3>
+  {% bibliography --group_by none --query @*[category=hpo]* %}
 </div>
